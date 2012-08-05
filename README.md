@@ -1,4 +1,4 @@
-mod_device_negotiation
+mod_negotiation_device
 ======================
 
-Content negotiation by device type (e.g. PC, smartphone, feature phone,...) 
+This module is for returning respective contents by device at the same URL.
